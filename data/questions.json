@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "q01",
+      "chapter": "01 / BEFORE DEBUT",
+      "title": "出道名单公布的前一晚，你在干什么？",
+      "options": [
+        { "id": "a", "text": "把三年的账号翻了一遍，删到凌晨还是不放心", "scores": { "instant": 3, "attitude": 1 } },
+        { "id": "b", "text": "给一个人发消息：以后我可能不能常联系了", "scores": { "romance": 3, "faded": 1 } },
+        { "id": "c", "text": "在群里跟人对完最后一次线，说以后没机会了", "scores": { "mouth": 3, "phoenix": 1 } },
+        { "id": "d", "text": "把出道资料又看了一遍，确认学历那栏写得好看", "scores": { "study": 3, "fandom": 1 } }
+      ]
+    },
+    {
+      "id": "q02",
+      "chapter": "01 / BEFORE DEBUT",
+      "title": "公司让你写一段自我介绍做宣传，你会怎么写？",
+      "options": [
+        { "id": "a", "text": "全篇感谢每一个支持我的人，写得挺感人", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "b", "text": "写这个不方便公开，让公司自己想办法", "scores": { "attitude": 3, "instant": 1 } },
+        { "id": "c", "text": "随便填了几行，反正也没人认真看", "scores": { "faded": 3, "study": 1 } },
+        { "id": "d", "text": "写得挺实在，连不太好的部分也写进去了", "scores": { "phoenix": 3, "mouth": 1 } }
+      ]
+    },
+    {
+      "id": "q03",
+      "chapter": "01 / BEFORE DEBUT",
+      "title": "团里有个队友跟你特别合拍，天天一起练习。",
+      "options": [
+        { "id": "a", "text": "开始在意他今天有没有回你消息", "scores": { "romance": 3, "fandom": 1 } },
+        { "id": "b", "text": "跟他一起吐槽其他队友", "scores": { "mouth": 3, "attitude": 1 } },
+        { "id": "c", "text": "一起研究怎么把采访答得更有内容", "scores": { "study": 3, "phoenix": 1 } },
+        { "id": "d", "text": "拍了合照发出去，忘了关定位", "scores": { "instant": 3, "faded": 1 } }
+      ]
+    },
+    {
+      "id": "q04",
+      "chapter": "01 / BEFORE DEBUT",
+      "title": "你突然有点红了，以前常联系的造型师来找你。",
+      "options": [
+        { "id": "a", "text": "让助理回一句她现在很忙", "scores": { "attitude": 3, "instant": 1 } },
+        { "id": "b", "text": "忘了回，后来就一直没回", "scores": { "faded": 3, "study": 1 } },
+        { "id": "c", "text": "抽十分钟打电话，还问她最近怎么样", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "d", "text": "跟她说我粉丝最近都在夸你做的造型", "scores": { "fandom": 3, "romance": 1 } }
+      ]
+    },
+    {
+      "id": "q05",
+      "chapter": "01 / BEFORE DEBUT",
+      "title": "采访里记者问：听说你成绩很好？",
+      "options": [
+        { "id": "a", "text": "说比我好的多了去了，别问了", "scores": { "mouth": 3, "attitude": 1 } },
+        { "id": "b", "text": "顺着说还行，当年也拿过奖", "scores": { "study": 3, "fandom": 1 } },
+        { "id": "c", "text": "现场报了个学校名，其实没毕业", "scores": { "instant": 3, "phoenix": 1 } },
+        { "id": "d", "text": "说我最近有点分心，在忙一件私人的事", "scores": { "romance": 3, "faded": 1 } }
+      ]
+    },
+    {
+      "id": "q06",
+      "chapter": "02 / THE FIRST YEAR",
+      "title": "出道曲录制那天，你状态很差。",
+      "options": [
+        { "id": "a", "text": "随便唱一遍交差", "scores": { "faded": 3, "study": 1 } },
+        { "id": "b", "text": "硬撑，录到满意为止", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "c", "text": "跟粉丝说今天状态不好，但我会努力", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "d", "text": "跟制作人说今天不行，改天", "scores": { "attitude": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q07",
+      "chapter": "02 / THE FIRST YEAR",
+      "title": "有人开始扒你的过去，第一条是：她以前在学校很嚣张。",
+      "options": [
+        { "id": "a", "text": "立刻发长文，把自己的履历和成绩都列出来", "scores": { "study": 3, "attitude": 1 } },
+        { "id": "b", "text": "第一反应是去翻自己还有没有别的没删干净", "scores": { "instant": 3, "faded": 1 } },
+        { "id": "c", "text": "第一反应是给那个人打电话，问他会不会被扒出来", "scores": { "romance": 3, "fandom": 1 } },
+        { "id": "d", "text": "在评论区回一句：我那时候确实挺讨厌的，怎么了", "scores": { "mouth": 3, "phoenix": 1 } }
+      ]
+    },
+    {
+      "id": "q08",
+      "chapter": "02 / THE FIRST YEAR",
+      "title": "粉丝在超话里骂你队友。",
+      "options": [
+        { "id": "a", "text": "公开说一句别骂了，我不喜欢这样", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "b", "text": "装没看见，反正骂的不是我", "scores": { "fandom": 3, "study": 1 } },
+        { "id": "c", "text": "私下跟队友说你自己处理吧", "scores": { "attitude": 3, "instant": 1 } },
+        { "id": "d", "text": "什么都不做，等他们吵完", "scores": { "faded": 3, "romance": 1 } }
+      ]
+    },
+    {
+      "id": "q09",
+      "chapter": "02 / THE FIRST YEAR",
+      "title": "出道前你在小号吐槽过同行。",
+      "options": [
+        { "id": "a", "text": "立刻注销，当没发生过", "scores": { "instant": 3, "phoenix": 1 } },
+        { "id": "b", "text": "只担心那个号里有没有提到他", "scores": { "romance": 3, "fandom": 1 } },
+        { "id": "c", "text": "留着，谁没说过几句", "scores": { "mouth": 3, "faded": 1 } },
+        { "id": "d", "text": "删掉那条，但把其他有深度的内容留着", "scores": { "study": 3, "attitude": 1 } }
+      ]
+    },
+    {
+      "id": "q10",
+      "chapter": "02 / THE FIRST YEAR",
+      "title": "团里要选队长，大家推你。",
+      "options": [
+        { "id": "a", "text": "接，然后开始在意每个人怎么看你", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "b", "text": "接，而且管得很严，队友有意见", "scores": { "attitude": 3, "mouth": 1 } },
+        { "id": "c", "text": "推掉，说自己不合适", "scores": { "faded": 3, "study": 1 } },
+        { "id": "d", "text": "接，但把功劳都分给队友", "scores": { "phoenix": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q11",
+      "chapter": "03 / UNDER THE LIGHT",
+      "title": "有个品牌找你，要求形象干净、不能有绯闻。",
+      "options": [
+        { "id": "a", "text": "犹豫了很久，因为确实有个人", "scores": { "romance": 3, "faded": 1 } },
+        { "id": "b", "text": "在群里吐槽这也太假了吧", "scores": { "mouth": 3, "attitude": 1 } },
+        { "id": "c", "text": "说自己生活简单，只有工作和学习", "scores": { "study": 3, "fandom": 1 } },
+        { "id": "d", "text": "直接签了，觉得自己藏得挺好", "scores": { "instant": 3, "phoenix": 1 } }
+      ]
+    },
+    {
+      "id": "q12",
+      "chapter": "03 / UNDER THE LIGHT",
+      "title": "你的物料数据不太好，公司让你多发点营业。",
+      "options": [
+        { "id": "a", "text": "说我不想发那些没意义的", "scores": { "attitude": 3, "mouth": 1 } },
+        { "id": "b", "text": "发，但都是模板化内容", "scores": { "faded": 3, "study": 1 } },
+        { "id": "c", "text": "发一条自嘲的，说自己数据不好", "scores": { "phoenix": 3, "romance": 1 } },
+        { "id": "d", "text": "在群里说大家帮我冲一下", "scores": { "fandom": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q13",
+      "chapter": "03 / UNDER THE LIGHT",
+      "title": "黑料越滚越大，你打开手机第一件事是？",
+      "options": [
+        { "id": "a", "text": "去搜是谁先说的，准备回怼", "scores": { "mouth": 3, "attitude": 1 } },
+        { "id": "b", "text": "去看有没有人翻你的学历", "scores": { "study": 3, "phoenix": 1 } },
+        { "id": "c", "text": "去翻自己还有哪些号没清理", "scores": { "instant": 3, "faded": 1 } },
+        { "id": "d", "text": "先看那个人有没有被牵扯进来", "scores": { "romance": 3, "fandom": 1 } }
+      ]
+    },
+    {
+      "id": "q14",
+      "chapter": "03 / UNDER THE LIGHT",
+      "title": "公司让你发道歉声明。",
+      "options": [
+        { "id": "a", "text": "照公司给的稿子念", "scores": { "faded": 3, "study": 1 } },
+        { "id": "b", "text": "自己写，把细节说清楚", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "c", "text": "写得让粉丝觉得你很委屈", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "d", "text": "不写，让公司发个公告", "scores": { "attitude": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q15",
+      "chapter": "03 / UNDER THE LIGHT",
+      "title": "前工作人员爆料，说你私下很难相处。",
+      "options": [
+        { "id": "a", "text": "说自己一向对专业要求很高", "scores": { "study": 3, "attitude": 1 } },
+        { "id": "b", "text": "说完全不认识这个人，其实认识", "scores": { "instant": 3, "faded": 1 } },
+        { "id": "c", "text": "说那天我确实心情不好，因为私事", "scores": { "romance": 3, "fandom": 1 } },
+        { "id": "d", "text": "反问那她为什么不早说", "scores": { "mouth": 3, "phoenix": 1 } }
+      ]
+    },
+    {
+      "id": "q16",
+      "chapter": "04 / AFTER THE FALL",
+      "title": "粉丝开始内撕，一部分要你退团，一部分要你留下。",
+      "options": [
+        { "id": "a", "text": "公开说留下的我记住，走的我也不怪", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "b", "text": "私下联系几个大粉，让她们帮忙控评", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "c", "text": "说这是我和公司的事，跟粉丝无关", "scores": { "attitude": 3, "study": 1 } },
+        { "id": "d", "text": "谁都不站，说你们自己决定", "scores": { "faded": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q17",
+      "chapter": "04 / AFTER THE FALL",
+      "title": "塌房第三天，有人拍到你在便利店买关东煮。",
+      "options": [
+        { "id": "a", "text": "第一反应是查这家店有没有监控死角", "scores": { "instant": 3, "attitude": 1 } },
+        { "id": "b", "text": "第一反应是给那个人发消息，你还好吗", "scores": { "romance": 3, "fandom": 1 } },
+        { "id": "c", "text": "发了条关东煮很好吃，推荐", "scores": { "mouth": 3, "phoenix": 1 } },
+        { "id": "d", "text": "让公司发声明说这是旧图", "scores": { "study": 3, "faded": 1 } }
+      ]
+    },
+    {
+      "id": "q18",
+      "chapter": "04 / AFTER THE FALL",
+      "title": "公司问你要不要休息半年。",
+      "options": [
+        { "id": "a", "text": "休息，但每天看评论", "scores": { "fandom": 3, "romance": 1 } },
+        { "id": "b", "text": "不休息，马上接活", "scores": { "attitude": 3, "mouth": 1 } },
+        { "id": "c", "text": "休息，反正也没什么事", "scores": { "faded": 3, "study": 1 } },
+        { "id": "d", "text": "休息，但每周发一条日常", "scores": { "phoenix": 3, "instant": 1 } }
+      ]
+    },
+    {
+      "id": "q19",
+      "chapter": "04 / AFTER THE FALL",
+      "title": "有个综艺想请你，条件是必须聊塌房这件事。",
+      "options": [
+        { "id": "a", "text": "去，但要求不聊私生活那部分", "scores": { "romance": 3, "faded": 1 } },
+        { "id": "b", "text": "去，把当年嘴过的人一个个点评一遍", "scores": { "mouth": 3, "attitude": 1 } },
+        { "id": "c", "text": "去，顺便讲讲自己的成长经历", "scores": { "study": 3, "phoenix": 1 } },
+        { "id": "d", "text": "去，但要求提前给台本", "scores": { "instant": 3, "fandom": 1 } }
+      ]
+    },
+    {
+      "id": "q20",
+      "chapter": "04 / AFTER THE FALL",
+      "title": "十年后有人问你，后悔出道吗？",
+      "options": [
+        { "id": "a", "text": "说我没什么好后悔的，是这行不适合我", "scores": { "attitude": 3, "study": 1 } },
+        { "id": "b", "text": "说后悔，但也没什么用", "scores": { "faded": 3, "romance": 1 } },
+        { "id": "c", "text": "说不后悔，塌了也是我", "scores": { "phoenix": 3, "mouth": 1 } },
+        { "id": "d", "text": "说最对不起的是当年那些粉丝", "scores": { "fandom": 3, "instant": 1 } }
+      ]
+    }
+  ]
+}
